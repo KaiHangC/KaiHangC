@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Kai Hang Chen
-- I used to be a manager at a fast food resturant, and right now I tring to land my first job in tech as a progamer.
-- 👀 I’m interested in software and web develop
-- 🌱 I’m currently pursuing bachelor degree in Computer information system at New York City College of Technology
-- 💞️ I’m looking to collaborate on software development with Java or web development with HTML, CSS, and Javascript
+- 🍝 I used to work at a fast food resturant as a manager, and right now I tring to land my first job in tech as a progamer.
+- 😢 I changed my career because I don't want to work 10 hrs a day and 60 hrs a week anymore.
+- 🌱 I’m have an associate degree in computer infomation system and currently pursuing bachelor degree in Computer information system at New York City College of Technology
 - 📫 How to reach me: ckaihang@gmail.com
 
 <!---
