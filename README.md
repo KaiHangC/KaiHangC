@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KaiHangC
+- 👋 Hi, I’m Kai Hang Chen
 - 👀 I’m interested in software and web develop
 - 🌱 I’m currently pursuing bachelor degree in Computer information system at New York City College of Technology
 - 💞️ I’m looking to collaborate on software development with Java or web development with HTML, CSS, and Javascript
