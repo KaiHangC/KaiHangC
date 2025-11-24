@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kai Hang Chen
-- 🍝 I used to work at a fast food resturant as a store manager, and right now I trying to land my first job in tech as a backend developer or data engineer.
+- 🍝 I used to work at a fast food resturant as a store manager, and right now I just landed my first tech job as database development fellow.
 - 🎓 I’m have bachelor degree in Computer information system at New York City College of Technology
 - 📫 How to reach me: ckaihang@gmail.com
 
